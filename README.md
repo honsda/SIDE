@@ -1,24 +1,4 @@
-<<<<<<< HEAD
-# side-m
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
 # SIDE
-man.
->>>>>>> 0c88fdb736a1ec186b54c0a66e038a23fe009fc0
+<img alt="help." src="https://img.shields.io/badge/crisis-existential-informational?style=flat">
+<h3>SIDE, SPWN Integrated Development Environment</h3> 
+<p style="font-size:8px;">also called as shit ide</p>
