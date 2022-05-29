@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # side-m
 
 ## Project setup
@@ -17,3 +18,7 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# SIDE
+man.
+>>>>>>> 0c88fdb736a1ec186b54c0a66e038a23fe009fc0
